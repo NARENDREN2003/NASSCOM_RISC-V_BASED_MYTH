@@ -16,7 +16,7 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 |     | [*Basic Verificaion Flow using iverilog*]()|
 |  3  | **Digital logic with TL-Verilog in Makerchip IDE** |  
 |     | [*Makerchip Platform*]()    |
-|     | [*Logic Gates & Combinational Logic*]() |
+|     | [*Logic Gates & Combinational Logic*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/blob/d8b7af0d6dca90ddf589872282ea8886d57da17e/DAY%203-Digital%20Logic%20with%20TL-Verilog%20and%20Makerchip/Logic%20Gates%20%26%20Combinational%20logic%20in%20TL-Verilog%20using%20Makerchip/COMBINATIONAL_LOGIC_LABS.md) |
 |     | [*Sequential Logic*]() |
 |     | [*Pipelined Logic*]() |
 |     | [*Validity*]() |
