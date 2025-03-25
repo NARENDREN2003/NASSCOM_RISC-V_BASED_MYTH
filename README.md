@@ -10,7 +10,7 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 | --- | ---------------------------------------- |
 | 3   | **Digital logic with TL-Verilog in Makerchip IDE** |  
 |     | [*Makerchip Platform*]()    |
-|     | [*Combinational Logic*]() |
+|     | [*logic Gates & Combinational Logic*]() |
 |     | [*Sequential Logic*]() |
 |     | [*Pipelined Logic*]() |
 |     | [*Validity*]() |
@@ -23,3 +23,4 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 |     | [*Piplining the CPU*]()|
 |     | [*Solutions to the pipline Hazards*]()|
 |     | [*Load/Store Instructions and completing RISC-V CPU*]()|
+
