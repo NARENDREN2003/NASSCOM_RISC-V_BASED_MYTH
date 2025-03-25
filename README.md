@@ -29,3 +29,7 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 |     | [*Piplining the CPU*]()|
 |     | [*Solutions to the pipline Hazards*]()|
 |     | [*Load/Store Instructions and completing RISC-V CPU*]()|
+
+# NOTE
+If anybody wish to go through the workshop ,start from Day 3 to 5 and then 1 & 2 for clear understanding of the workshop.
+
