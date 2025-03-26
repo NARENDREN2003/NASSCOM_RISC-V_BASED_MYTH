@@ -1,4 +1,4 @@
 |MAKERCHIP IDE SEQUENTIAL  LOGIC PROJECTS | LINKS
 |----------------------------------------------|--|
-|*Fibonacci Series* | [www.makerchip.com/sandbox/0xkfJhR1L/0nZh7pz](www.makerchip.com/sandbox/0xkfJhR1L/0nZh7pz)|
-|*Counter*| [www.makerchip.com/sandbox/0xkfJhR1L/0r0h83O](www.makerchip.com/sandbox/0xkfJhR1L/0r0h83O)|
+|*Fibonacci Series* | www.makerchip.com/sandbox/0xkfJhR1L/0nZh7pz|
+|*Counter*| www.makerchip.com/sandbox/0xkfJhR1L/0r0h83O|
