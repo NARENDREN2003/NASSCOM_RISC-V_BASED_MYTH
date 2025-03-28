@@ -7,7 +7,7 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 | Day |                 Topic                   |
 | --- | ---------------------------------------- |
 |  1  |**Introduction to RISC-V ISA and GNU Compiler Toolchain** |
-|     | [*Introduction to RISC-V basic Keywords*]()|
+|     | *Introduction to RISC-V basic Keywords*|
 |     | [*Labwork for RISC-V Software Toolchain*]()|
 |     | [*Integer Number Representation*]()|
 |  2  |**Introdcution ABI and basic verification flow**|
