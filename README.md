@@ -1,5 +1,5 @@
 # **NASSCOM_RISC-V_BASED_MYTH**
-This repository expresses the ideas and insights provided by the Steve Hoover in the workshop NASSCOM RISC-V BASED MYTH (Microprocessor for You in Thirty Hours) organized by the VLSI SYSTEM DESIGN shortly known as VSD owned by Kunal Ghosh ,a passionate VLSI educator.This workshop gives the Build of a RISC-V processor in a detailed way.
+This repository expresses the ideas and insights provided by the Steve Hoover in the workshop NASSCOM RISC-V BASED MYTH (Microprocessor for You in Thirty Hours) organized by the VLSI SYSTEM DESIGN shortly known as VSD co-founded by Kunal Ghosh ,a passionate VLSI educator.This workshop gives the Build of a RISC-V processor in a detailed way.
 We will use the Makerchip online IDE to design, simulate, and visualize circuits. Let’s start from the basics and quickly ramp up to more advanced concepts.[*MAKERCHIP IDE*](https://www.makerchip.com/)
 
 ## **Workshop Schedule**
