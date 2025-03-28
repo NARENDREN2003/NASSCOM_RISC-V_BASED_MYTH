@@ -7,9 +7,9 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 | Day |                 Topic                   |
 | --- | ---------------------------------------- |
 |  1  |**Introduction to RISC-V ISA and GNU Compiler Toolchain** |
-|     | *Introduction to RISC-V basic Keywords*|
-|     | [*Labwork for RISC-V Software Toolchain*]()|
-|     | [*Integer Number Representation*]()|
+|     | [Introduction to RISC-V basic Keywords*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/blob/0515300ff6edd25ccb450901d86ba09d1dbc7b8d/DAY%201-Introduction%20to%20RISC-V%20ISA%20and%20GNU%20Compiler%20Toolchain/RISCV_Labwork/RISCV_LABWORK.md)|
+|     | [*Labwork for RISC-V Software Toolchain*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/blob/0515300ff6edd25ccb450901d86ba09d1dbc7b8d/DAY%201-Introduction%20to%20RISC-V%20ISA%20and%20GNU%20Compiler%20Toolchain/RISCV_Labwork/RISCV_LABWORK.md)|
+|     | [*Integer Number Representation*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/blob/0515300ff6edd25ccb450901d86ba09d1dbc7b8d/DAY%201-Introduction%20to%20RISC-V%20ISA%20and%20GNU%20Compiler%20Toolchain/RISCV_Labwork/RISCV_LABWORK.md)|
 |  2  |**Introdcution ABI and basic verification flow**|
 |     | [*Application Binary Interface*]()|
 |     | [*Lab Work using ABI function calls*]() |
