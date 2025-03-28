@@ -18,9 +18,8 @@ We will use the Makerchip online IDE to design, simulate, and visualize circuits
 |     | [*Makerchip Platform*]()    |
 |     | [*Logic Gates & Combinational Logic*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/blob/d8b7af0d6dca90ddf589872282ea8886d57da17e/DAY%203-Digital%20Logic%20with%20TL-Verilog%20and%20Makerchip/Logic%20Gates%20%26%20Combinational%20logic%20in%20TL-Verilog%20using%20Makerchip/COMBINATIONAL_LOGIC_LABS.md) |
 |     | [*Sequential Logic*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/tree/0343401e16a50db952327bd7ddb8fe84c61f1a1d/DAY%203-Digital%20Logic%20with%20TL-Verilog%20and%20Makerchip/SEQUENTIAL%20_LOGIC_LABS) |
-|     | [*Pipelined Logic*]() |
+|     | [*Pipelined Logic*](https://github.com/NARENDREN2003/NASSCOM_RISC-V_BASED_MYTH/tree/caa4a2268e8d8ea0bec4a86b353afde3fde3fa14/DAY%203-Digital%20Logic%20with%20TL-Verilog%20and%20Makerchip/PIPELINED_LOGIC) |
 |     | [*Validity*]() |
-|     | [*Warp up*]() |
 |  4  | **Basic RISC-V CPU Micro Architecture**|
 |     |[*Introduction to Simple RISC-V Microarchitecture*]()|
 |     |[*Fetch and Decode*]() |
